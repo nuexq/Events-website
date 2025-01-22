@@ -7,6 +7,7 @@ export const siteConfig = {
     "Complexe Professionnel des Habous, Tranche 2, Imm B",
     "2ème étage, Appt N°11",
   ],
+  author: "neuxq",
   links: {
     facebook: "https://www.facebook.com/Urbaevents",
     youtube: "https://www.youtube.com/channel/UCjOn8gAB3zTDIwty43s2SCg",
